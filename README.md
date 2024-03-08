@@ -1,2 +1,3 @@
-# Bash_Tools
+# bash-tools
+
 Bash tools
